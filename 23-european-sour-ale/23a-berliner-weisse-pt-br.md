@@ -18,15 +18,15 @@ Acidez lática limpa domina e pode ser bastante forte. Um sabor complementar que
 
 ## Sensação na Boca
 
-Corpo leve, mas nunca ralo. Carbonatação muito alta. Sem sensação de álcool. Acidez que rapidamente faz a percepção de corpo parecer mais aguda (*crisp*).
+Corpo leve, mas nunca ralo. Carbonatação muito alta. Sem sensação de álcool. Acidez que cessa subtamente (*crisp*).
 
 ## Comentários
 
-Qualquer aspecto de Bretta é contido e tipicamente expressado na forma de notas florais e frutadas, nunca *funky*. Versões envelhecidas podem denotar características de cidra, mel, feno ou suave flor silvestre e, por vezes, acidez elevada. Na Alemanha é classificada como uma *Schankbier*, ou seja, uma cerveja leve com densidade inicial na faixa de 7-8 °P. Versões com adição de fruta ou especiarias devem ser inscritas como 29A Fruit Beer, como 30A Spice, Herb, or Vegetable Beer ou como 29 29B Fruit and Spice Beer.
+Qualquer aspecto de Bretta é contido e tipicamente expressado na forma de notas florais e frutadas, nunca *funky*. Versões envelhecidas podem denotar características de cidra, mel, feno ou suave flor silvestre e, por vezes, acidez elevada. Na Alemanha é classificada como uma *Schankbier*, ou seja, uma cerveja leve com densidade inicial na faixa de 7-8°P. Versões com adição de fruta ou especiarias devem ser inscritas como 29A Fruit Beer, como 30A Spice, Herb, or Vegetable Beer ou como 29B Fruit and Spice Beer.
 
 ## História
 
-Uma especialidade regional de Berlim. Em 1809 era referida como "a Champagne do Norte" pelas tropas de Napoleão devido à sua qualidade vibrante e elegante. Em dado momento era defumada e costumava haver uma versão de intensidade *Märzen* (14 °P). Cada vez mais rara na Alemanha, mas agora produzida em diversos outros países.
+Uma especialidade regional de Berlim. Em 1809 era referida como "a Champagne do Norte" pelas tropas de Napoleão devido à sua qualidade vibrante e elegante. Em dado momento era defumada e costumava haver uma versão de intensidade *Märzen* (14°P). Cada vez mais rara na Alemanha, mas agora produzida em diversos outros países.
 
 ## Ingredientes Característicos
 
@@ -48,7 +48,7 @@ ABV: 2.8% - 3.8%
 
 Bayerischer Bahnhof Berliner Style Weisse, Berliner Berg Berliner Weisse, Brauerei Meierei Weiße, Lemke Berlin Budike Weisse, Schell's Brewing Company Schelltheiss, Urban Chestnut Ku’damm.
 
-## Última Revisão
+## Revisões Anteriores
 
 Berliner Weisse (2015)
 
